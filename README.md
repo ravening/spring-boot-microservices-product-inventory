@@ -70,3 +70,5 @@ Ex: `spring-boot-microservices-series> docker-compose up -d catalog-service --bu
     * hostname: shoppingcart-ui
     * Ports: 18080:8080
     * URL: http://localhost:18080
+
+More information can be obtained from https://sivalabs.in/2018/03/microservices-using-springboot-spring-cloud-part-1-overview/
